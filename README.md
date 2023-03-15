@@ -1,4 +1,6 @@
-Board
+![Booya](./img/background.png)
+
+#Board
 
 What?
 * Create 2d board
